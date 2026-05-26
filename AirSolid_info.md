@@ -34,3 +34,13 @@
 - Direction veut **sortir de la dépendance** au serveur unique.
 - Charte implicite : *« Plus jamais 48 h sans ERP »*.
 - Partenaire logistique à venir : besoin futur d'un **flux EDI** sécurisé.
+
+svalabilité ? ( pour les bureaux )
+panne de 48h de quoi ? 
+avis sur le cloud côté client ? français ou pas ?
+et en barre metal qu'est ce que vous avez comme infrastructure ( nombre de serveur physique, Stockage ??,)
+dimensions des baies ? watage dispo ? alimentation triphasé ? 
+process sécurité RGPD ? 
+réseau ? fibre ? 
+budjet déjà défini pour l'infra,   annuel pour du cloud ? 
+VPN ?
