@@ -57,4 +57,4 @@ et en barre metal qu'est ce que vous avez comme infrastructure ( nombre de serve
 dimensions des baies ? watage dispo ? alimentation triphasé ? 
 process sécurité RGPD ? 
 réseau ? fibre ? 
-budjet déjà défini pour l'infra ? 
+budjet déjà défini pour l'infra ?
